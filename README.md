@@ -15,3 +15,5 @@ go run main.go
 ```
 
 Le serveur sera accessible sur http://localhost:8080
+reset  ça annule le commit localement, comme s’il n’avait jamais existé.
+revert ça annule le commit avec un nouveau commit “inverse”.
